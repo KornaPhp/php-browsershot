@@ -1,3 +1,18 @@
+## 5.3.0 - 2026-04-27
+
+### What's Changed
+
+* Update requirements.md by @colinmackinlay in https://github.com/spatie/browsershot/pull/973
+* Bump dependabot/fetch-metadata from 2.5.0 to 3.0.0 by @dependabot[bot] in https://github.com/spatie/browsershot/pull/974
+* Bump dependabot/fetch-metadata from 3.0.0 to 3.1.0 by @dependabot[bot] in https://github.com/spatie/browsershot/pull/976
+* feat: Use only request interception when needed by @kissifrot in https://github.com/spatie/browsershot/pull/975
+
+### New Contributors
+
+* @kissifrot made their first contribution in https://github.com/spatie/browsershot/pull/975
+
+**Full Changelog**: https://github.com/spatie/browsershot/compare/5.2.3...5.3.0
+
 ## 5.2.3 - 2026-02-18
 
 - Allow http(s) URLs to localhost in HTML (fixes false positive with Vite dev server)
